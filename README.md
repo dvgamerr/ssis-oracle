@@ -1,4 +1,4 @@
-# SSIS with Oracle Instant Client
+# SSIS with Oracle Instant Client 11.2
 
 ## Installation
 1. Download [ODAC112040Xcopy_64bit.zip](https://drive.google.com/open?id=1tq3xHmbSc_I_z88Hyp5_xu1BqKHW_C39) to your computer.
